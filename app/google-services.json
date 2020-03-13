@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88286394802",
+    "firebase_url": "https://buckneer-9049a.firebaseio.com",
+    "project_id": "buckneer-9049a",
+    "storage_bucket": "buckneer-9049a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88286394802:android:9b797d8fe812f781884cab",
+        "android_client_info": {
+          "package_name": "com.miftarisimel.buckneer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88286394802-e4ris51o2skkhufeldvpl7a30g3n34vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miftarisimel.buckneer",
+            "certificate_hash": "305a0a382d3f53eae3d2827643822cea0fe01afe"
+          }
+        },
+        {
+          "client_id": "88286394802-3oapji20au7jnfibaa7d6gcl2ftt1qf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwhrbdfP1T62dCiHNYiRTjRPywM16K9Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88286394802-3oapji20au7jnfibaa7d6gcl2ftt1qf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
